@@ -1,4 +1,4 @@
-name: Close Kitchen Issues
+name: Test Cron
 
 on:
   schedule:
